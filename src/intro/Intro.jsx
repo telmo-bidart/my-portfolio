@@ -27,7 +27,7 @@ const intro = () => {
                     </div>
                     </div>
                     <div className="i-desc">
-                        Tenho 22 anos, sou natural de macéio alagoas e atualmente moro em são paulo. Me apaixonei por programação em outubro do ano passado e desde então venho estudando e me aprimorando na área.
+                        Tenho 22 anos, sou natural de Macéio Alagoas e atualmente moro em São Paulo. Me apaixonei por programação em outubro do ano passado e desde então venho estudando e me aprimorando na área.
                     </div>
                 </div>
             </div>
